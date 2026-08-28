@@ -2,7 +2,7 @@
 
 A highly optimized, trie-based word unscrambler. Give it a scrambled string (a "rack") and it returns every valid dictionary word that can be formed from a subset of those letters — i.e. the full power set of unscrambles, not just full-length anagrams.
 
-This was mainly a for-fun project born out of wanting scrabble/anagram-solving to be *fast*.
+This was mainly a for-fun project born out of wanting to learn Scrabble, the board game.
 
 ## How fast?
 
